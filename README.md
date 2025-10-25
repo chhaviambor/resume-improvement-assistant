@@ -19,7 +19,6 @@ Open `app.py` with Streamlit:
 - `utils/` — helper modules (text processing, skill extraction, scoring, summarizer, visuals)
 - `skills.json` — skill database used for matching
 - `sample_data/` — sample resume and job posts for testing
-- `screenshots/` — images for README and report
 - `REPORT.md` — full project report (convert to PDF for submission)
 - `requirements.txt` — Python dependencies
 
