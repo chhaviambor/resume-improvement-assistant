@@ -1,0 +1,7 @@
+Priya Sharma
+Data Analyst with over 2 years of experience in data cleaning, analysis, and visualization. Proficient in Python, SQL, and Excel. Experienced in creating dashboards using Power BI and Tableau to help management make data-driven decisions.
+Technical Skills: Python, Pandas, NumPy, SQL, Power BI, Tableau, Excel, Data Visualization, Machine Learning, Statistics
+Experience: Data Analyst | Insight Analytics Pvt Ltd | June 2022 - Present
+- Collected and analyzed data from multiple sources to identify trends and improve sales performance by 15%.
+- Automated weekly reports using Python and SQL scripts reducing manual work by 30%.
+- Built dashboards in Power BI and Tableau to visualize business KPIs.

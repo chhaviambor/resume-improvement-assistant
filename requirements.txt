@@ -1,0 +1,14 @@
+streamlit
+pdfplumber
+rapidfuzz
+scikit-learn
+numpy
+rake-nltk
+sumy
+nltk
+spacy
+textblob
+wordcloud
+matplotlib
+pandas
+pillow
